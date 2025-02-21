@@ -4,7 +4,7 @@
 👀 I’m interested in developing innovative mobile and web applications, especially those that can make a difference in people's lives. 
 
 🌱 I’m currently learning advanced Flutter techniques and improving my skills in AI and machine learning.  
-![profile image](https://github.com/yohabay/yohabay/blob/main/image/fullstack.png)
+![profile image](https://github.com/yohabay/yohabay/blob/main/image/Screenshot%202025-02-21%20193758.png)
 
 💞️ I’m looking to collaborate on projects related to accessibility, e-commerce, and real-time location-based services.  
 
