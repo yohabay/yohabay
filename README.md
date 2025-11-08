@@ -1,16 +1,17 @@
-# 👋 Hi, I’m @yohabay  
+# 👋 Hi, I’m @yohabay
 
-> Crafting **high-performance Flutter & Web apps** with AI, ML, and real-time data 🚀  
+> Building **high-performance Flutter & Web apps** powered by **AI, ML, AR/VR, and real-time data** 🚀  
+> Futuristic Developer of 2050 🌌
 
 ![header-animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
 ## 🌐 About Me
-I’m a **Flutter & Web Developer** passionate about building apps that **make a difference**.  
+I’m a **Flutter & Web Developer** passionate about **innovating across platforms**.  
 - 5+ years experience in **mobile & web development**  
-- Focused on **Flutter, AI/ML, real-time apps, and accessibility-first design**  
-- Experienced in **backend, databases, APIs, and CI/CD pipelines**  
+- Expert in **Flutter, Dart, AI/ML, real-time apps, and accessibility-first design**  
+- Skilled in **backend APIs, databases, CI/CD pipelines, and open-source collaboration**  
 
 ---
 
@@ -33,7 +34,7 @@ I’m a **Flutter & Web Developer** passionate about building apps that **make a
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 GitHub Stats & Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
@@ -43,108 +44,59 @@ I’m a **Flutter & Web Developer** passionate about building apps that **make a
 ![Commits](https://img.shields.io/badge/Commits-1500+-green?style=for-the-badge)  
 ![PRs](https://img.shields.io/badge/PRs-300+-blue?style=for-the-badge)  
 
-**Projects & Contributions:**  
-![Projects](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge)  
-![Open Source](https://img.shields.io/badge/Open_Source-3+-yellow?style=for-the-badge)  
+---
+
+## ⚡ Skill Levels (Animated Bars)
+| Skill | Level |
+|-------|-------|
+| Flutter | ![95%](https://progress-bar.dev/95/?title=Flutter&color=00BFFF) |
+| Dart | ![95%](https://progress-bar.dev/95/?title=Dart&color=00BFFF) |
+| React | ![75%](https://progress-bar.dev/75/?title=React&color=61DBFB) |
+| Node.js | ![70%](https://progress-bar.dev/70/?title=Node.js&color=339933) |
+| Firebase | ![70%](https://progress-bar.dev/70/?title=Firebase&color=FFCA28) |
+| Python | ![80%](https://progress-bar.dev/80/?title=Python&color=3776AB) |
+| TensorFlow | ![65%](https://progress-bar.dev/65/?title=TensorFlow&color=FF6F00) |
+| PyTorch | ![60%](https://progress-bar.dev/60/?title=PyTorch&color=EE4C2C) |
+| MongoDB | ![60%](https://progress-bar.dev/60/?title=MongoDB&color=47A248) |
 
 ---
 
-## ⚡ Skill Levels & Experience Graph
+## 🚀 Projects Showcase
 
-```text
-Flutter        █████████████████ 95%
-Dart           █████████████████ 95%
-React          ████████████ 75%
-Node.js        ███████████ 70%
-Firebase       ███████████ 70%
-Python         ████████████ 80%
-TensorFlow     ██████████ 65%
-PyTorch        ████████ 60%
-MongoDB        ████████ 60%
-
-Experience Timeline (Starting 2021):
-
-2021 → Built first production Flutter apps
-
-2021 → Started AI & ML experiments
-
-2022 → Contributed to open-source projects
-
-2022 → Developed real-time apps & cross-platform projects
-
-2023 → Led full-stack Flutter projects
-
-2024 → Expanding AI/ML integration and advanced Flutter techniques
-
-🚀 Projects Showcase
-Project	Tech Stack	Status	Demo
-NextGen App	Flutter, Firebase	✅ Production	View
-
-AI Chatbot	Python, TensorFlow	🤖 Active	View
-
-Realtime Map	Flutter, Node.js, WebSocket	🔄 Development	View
-
-E-Commerce Platform	Flutter, GraphQL, MongoDB	✅ Completed	View
-📈 Contribution Heatmap
-
-🌐 Connect With Me
-
-
-
-
-
-
-📫 Email: abayyohannis267@gmail.com
-
-📱 Phone: 0960700200
-
-🏆 Achievements
-
-Built 10+ production-ready apps
-
-Contributed to 3+ open-source repositories
-
-Developed AI-powered chatbots & recommendation systems
-
-Delivered accessible and user-friendly apps
-
-Collaborated with 5+ cross-functional teams
-
-🔮 Future Roadmap
-
-Build AI & ML powered real-time apps
-
-Contribute to major open-source projects
-
-Lead cross-platform app development teams
-
-Explore Web3 & blockchain integration
-
-Achieve full-stack expertise in Flutter, Web, and AI
-
-🎨 Fun & Personality
-
-Coding while listening to classical music 🎵
-
-Hobbies: Chess, photography, tech blogging 🧩
-
-Always pushing innovation boundaries 💫
-
+| Project | Tech Stack | Status | Demo |
+|---------|------------|--------|------|
+| NextGen App | Flutter, Firebase | ✅ Production | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/> |
+| AI Chatbot | Python, TensorFlow | 🤖 Active | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/> |
+| Realtime Map | Flutter, Node.js, WebSocket | 🔄 Development | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/> |
+| E-Commerce Platform | Flutter, GraphQL, MongoDB | ✅ Completed | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/> |
 
 ---
 
-This version is:  
-✅ **All-in-one copy-ready**  
-✅ Starts **from 2021** as requested  
-✅ **Graphs, badges, icons, stats, GIFs, skill charts, projects, and roadmap** all included  
-✅ Perfect for employers, collaborators, or portfolio showcase  
+## 🔮 Future Roadmap
+
+- Build **AI & ML powered real-time apps**  
+- Contribute to major **open-source projects**  
+- Lead **cross-platform app development teams**  
+- Explore **Web3 & blockchain integration**  
+- Achieve **full-stack expertise in Flutter, Web, and AI**  
 
 ---
 
-If you want, I can **upgrade it further** to include:  
-- **Animated SVG skill bars**  
-- **Live project GIF previews embedded**  
-- **Dynamic skill radar**  
-- **Automatic GitHub contribution/achievement updates**  
+## 🌐 Connect With Me
 
-Do you want me to make that ultimate interactive version next?
+📫 Email: abayyohannis267@gmail.com  
+📱 Phone: 0960700200  
+[LinkedIn](https://www.linkedin.com/in/yohabay) | [Portfolio](#) | [Twitter](#)  
+
+---
+
+## 🎨 Fun & Personality
+
+- Coding while listening to **classical music** 🎵  
+- Hobbies: Chess, photography, tech blogging 🧩  
+- Always **pushing innovation boundaries** 💫  
+
+---
+
+> ⚡ This is a fully interactive, visually rich README designed to impress employers, clients, and collaborators.  
+> Copy-paste ready for GitHub with **animated badges, GIFs, skill bars, stats, and roadmap** ✨
