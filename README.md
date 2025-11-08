@@ -1,6 +1,6 @@
 <!--
 ✨ Yohannis Abay | Senior Flutter Developer ✨
-Crafted with ❤️ using pure Markdown + Flutter energy.
+Crafted with ❤️ using Markdown + Flutter energy.
 -->
 
 <div align="center">
@@ -17,7 +17,7 @@ Crafted with ❤️ using pure Markdown + Flutter energy.
 ## 🌟 About Me  
 
 I’m a **Senior Flutter Developer** passionate about building **production-ready mobile and web apps** with stunning performance and elegant UI.  
-Since 2022, I’ve been blending creativity and engineering precision to deliver **cross-platform experiences** that feel native on every device.  
+Since 2021, I’ve been blending creativity and engineering precision to deliver **cross-platform experiences** that feel native on every device.  
 
 - 🧠 Strong believer in **Clean Architecture** & **SOLID principles**  
 - ⚙️ Expert in **Riverpod, Provider, BLoC, and GetX**  
@@ -30,33 +30,44 @@ Since 2022, I’ve been blending creativity and engineering precision to deliver
 
 ## 🛠️ Tech Stack & Skills  
 
-### 🧩 Flutter & Frontend  
-![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart)
-![Riverpod](https://img.shields.io/badge/Riverpod-Advanced-6DB33F?logo=data:image/svg+xml;base64,)
-![Provider](https://img.shields.io/badge/Provider-Advanced-4CAF50)
-![GetX](https://img.shields.io/badge/GetX-Strong-9C27B0)
-![BLoC](https://img.shields.io/badge/BLoC-Strong-1976D2)
+### 🧩 Flutter & Frontend
+- Flutter (Expert)  
+- Dart (Expert)  
+- Riverpod (Advanced)  
+- Provider (Advanced)  
+- GetX (Strong)  
+- BLoC (Strong)  
 
-### ☁️ Backend & Data  
-![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?logo=firebase)
-![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?logo=graphql)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
-![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?logo=sqlite)
-![Hive](https://img.shields.io/badge/Hive-Strong-FFC107)
+### ☁️ Backend & Data
+- Firebase (Expert)  
+- GraphQL (Advanced)  
+- Node.js (Intermediate)  
+- SQLite (Advanced)  
+- Hive (Strong)  
 
-### ⚙️ DevOps & Tools  
-![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Proficient-2088FF?logo=githubactions)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-success)
-![Crashlytics](https://img.shields.io/badge/Crashlytics-Enabled-orange)
-![AppStore](https://img.shields.io/badge/Play%20%26%20App%20Store-Releases-success)
+### ⚙️ DevOps & Tools
+- Git (Expert)  
+- GitHub Actions (Proficient)  
+- CI/CD (Automated)  
+- Crashlytics (Enabled)  
+- AppStore / Play Store (Releases)  
 
 ---
 
-## 📊 Skill Graphs  
+## 📊 Skill Graph  
 
-![Skills](https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','Firebase','Riverpod','UI/UX','Testing'],datasets:[{label:'Skill Level',data:[98,95,90,92,94,85],backgroundColor:'rgba(30,144,255,0.3)',borderColor:'dodgerblue'}]}})
+![Skills Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','Firebase','Riverpod','UI/UX','Testing'],datasets:[{label:'Skill Level',data:[98,95,90,92,94,85],backgroundColor:'rgba(30,144,255,0.3)',borderColor:'dodgerblue'}]}})
+
+---
+
+## ⚡ Experience Timeline  
+
+- **2021** → Built first production Flutter apps  
+- **2021** → Started AI & ML experiments  
+- **2022** → Contributed to open-source projects  
+- **2022** → Developed real-time apps & cross-platform projects  
+- **2023** → Led full-stack Flutter projects  
+- **2024** → Expanding AI/ML integration and advanced Flutter techniques  
 
 ---
 
@@ -64,43 +75,30 @@ Since 2022, I’ve been blending creativity and engineering precision to deliver
 
 <div align="center">
 
-### 💰 Lumma Wallet  
+**💰 Lumma Wallet**  
 <img src="https://via.placeholder.com/600x300.png?text=Lumma+Wallet+App" width="600"/>  
-**Fintech app for secure digital payments & budgeting**  
-> Offline-first architecture, Hive + Firebase, Riverpod navigation, Lottie animations, responsive & minimal UI.  
-[🔗 View Repo](#) | [🎬 Demo](#)
+Fintech app for secure digital payments & budgeting.  
+[🔗 Repo](#) | [🎬 Demo](#)  
 
----
-
-### 🌬️ LuxiLuft  
+**🌬️ LuxiLuft**  
 <img src="https://via.placeholder.com/600x300.png?text=LuxiLuft+App" width="600"/>  
-**IoT-powered air quality monitoring and smart home control**  
-> Flutter + WebSocket + real-time dashboards with animated gauges and adaptive themes.  
-[🔗 View Repo](#) | [🎬 Demo](#)
+IoT-powered air quality monitoring and smart home control.  
+[🔗 Repo](#) | [🎬 Demo](#)  
 
----
-
-### 💪 FitMax  
+**💪 FitMax**  
 <img src="https://via.placeholder.com/600x300.png?text=FitMax+App" width="600"/>  
-**AI-driven fitness and health tracking app**  
-> Integrated motion sensors, Firebase Auth, ML-based recommendations, charts, and progress analytics.  
-[🔗 View Repo](#) | [🎬 Demo](#)
+AI-driven fitness and health tracking app.  
+[🔗 Repo](#) | [🎬 Demo](#)  
 
----
-
-### 🧠 SkillSwap  
+**🧠 SkillSwap**  
 <img src="https://via.placeholder.com/600x300.png?text=SkillSwap+App" width="600"/>  
-**Peer-to-peer skill sharing and learning platform**  
-> Real-time chat, push notifications, GraphQL APIs, Riverpod + GoRouter, and smooth hero animations.  
-[🔗 View Repo](#) | [🎬 Demo](#)
+Peer-to-peer skill sharing and learning platform.  
+[🔗 Repo](#) | [🎬 Demo](#)  
 
----
-
-### 🍽️ Gursha  
+**🍽️ Gursha**  
 <img src="https://via.placeholder.com/600x300.png?text=Gursha+App" width="600"/>  
-**Ethiopian food delivery and cultural recipe platform**  
-> Flutter + Firebase + Google Maps + real-time order tracking with BLoC pattern.  
-[🔗 View Repo](#) | [🎬 Demo](#)
+Ethiopian food delivery and cultural recipe platform.  
+[🔗 Repo](#) | [🎬 Demo](#)  
 
 </div>
 
@@ -120,10 +118,32 @@ Since 2022, I’ve been blending creativity and engineering precision to deliver
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)
+
+</td>
+<td>
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yohabay&theme=onedark)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -154,8 +174,6 @@ Since 2022, I’ve been blending creativity and engineering precision to deliver
 - ♟️ Strategy & chess lover  
 - 📸 Enjoys photography & visual design  
 - ✨ Motto: *“Build apps that feel alive.”*  
-
----
 
 <div align="center">
 
