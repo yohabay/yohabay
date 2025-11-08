@@ -5,67 +5,50 @@ Crafted with ❤️ using Markdown + Flutter energy.
 
 <div align="center">
 
-# 👋 Hi, I’m **Yohannis Abay**  
-### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀  
+# 👋 Hi, I’m **Yohannis Abay**
+### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀
 
-![Flutter Banner](https://via.placeholder.com/1200x300.png?text=Senior+Flutter+Developer+%7C+Yohannis+Abay)
+![Flutter Banner](https://raw.githubusercontent.com/SimformSolutionsPvtLtd/flutter_showcase/main/assets/banner.jpg)
 
 </div>
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
 I’m a **Senior Flutter Developer** passionate about building **production-ready mobile and web apps** with stunning performance and elegant UI.  
-Since 2021, I’ve been blending creativity and engineering precision to deliver **cross-platform experiences** that feel native on every device.  
+Since 2021, I’ve blended creativity and engineering precision to deliver experiences that feel native everywhere.
 
-- 🧠 Strong believer in **Clean Architecture** & **SOLID principles**  
-- ⚙️ Expert in **Riverpod, Provider, BLoC, and GetX**  
-- ☁️ Backend integrations: **Firebase, REST, GraphQL, WebSockets**  
-- 🎨 Known for **smooth animations, responsive design, and intuitive UX**  
-- 🚀 Experience delivering apps from prototype to **Play Store / App Store**  
-- 🤝 Collaborative teammate, open-source contributor, and problem-solver  
+- 🧠 Clean Architecture & SOLID enthusiast  
+- ⚙️ Riverpod, Provider, BLoC, GetX expert  
+- ☁️ Firebase, REST, GraphQL, WebSockets integrator  
+- 🎨 Smooth animations, responsive design, intuitive UX  
+- 🚀 End-to-end app launches (Prototype → Store)  
+- 🤝 Team player, open-source contributor, mentor
 
 ---
-## 🛠️ Tech Stack & Skills  
+
+## 🛠️ Tech Stack & Badges
 
 <div align="center">
-
-| 🧩 **Frontend / Flutter** | ☁️ **Backend / Data** | ⚙️ **DevOps / Tools** |
-|---------------------------|---------------------|----------------------|
-| Flutter (Expert)          | Firebase (Expert)    | Git (Expert)         |
-| Dart (Expert)             | GraphQL (Advanced)  | GitHub Actions (Proficient) |
-| Riverpod (Advanced)       | Node.js (Intermediate) | CI/CD (Automated)   |
-| Provider (Advanced)       | SQLite (Advanced)   | Crashlytics (Enabled)|
-| GetX (Strong)             | Hive (Strong)       | AppStore / Play Store (Releases) |
-| BLoC (Strong)             | REST / WebSockets   | Docker / VSCode (Optional) |
-
+  <img src="https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Advanced-ffca28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GraphQL-Advanced-e535ab?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Proficient-2088FF?logo=github-actions&logoColor=white" />
 </div>
 
 ---
 
-## 📊 Skills Graph  
+## 📊 Skills Graph
 
 <div align="center">
-
-![Skills Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','Firebase','Riverpod','UI/UX','Testing'],datasets:[{label:'Skill Level',data:[98,95,90,92,94,85],backgroundColor:'rgba(30,144,255,0.3)',borderColor:'dodgerblue'}]}})
-
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','Firebase','Riverpod','UI/UX','Testing','GetX','BLoC'],datasets:[{label:'Skill Level',data:[97,96,92,91,95,88,88,87],backgroundColor:'rgba(51,102,204,0.2)'}]}}" width="400px" alt="Skills Radar Chart">
 </div>
 
 ---
 
-## ⚡ Experience Timeline  
-
-- **2021** → Built first production Flutter apps  
-- **2021** → Started AI & ML experiments  
-- **2022** → Contributed to open-source projects  
-- **2022** → Developed real-time apps & cross-platform projects  
-- **2023** → Led full-stack Flutter projects  
-- **2024** → Expanding AI/ML integration and advanced Flutter techniques  
-
----
-
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -73,46 +56,46 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 <tr>
 <td>
 
-**💰 Lumma Wallet**  
-<img src="https://via.placeholder.com/400x200.png?text=Lumma+Wallet" width="100%"/>  
+<strong>💰 Lumma Wallet</strong><br>
+<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80" width="100%" alt="Lumma Wallet" />  
 Fintech app for secure digital payments & budgeting.  
-[🔗 Repo](#) | [🎬 Demo](#)
+[🔗 Repo](#)
 
 </td>
 <td>
 
-**🌬️ LuxiLuft**  
-<img src="https://via.placeholder.com/400x200.png?text=LuxiLuft" width="100%"/>  
-IoT-powered air quality monitoring and smart home control.  
-[🔗 Repo](#) | [🎬 Demo](#)
+<strong>🌬️ LuxiLuft</strong><br>
+<img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&q=80" width="100%" alt="LuxiLuft" />  
+IoT-powered air quality monitoring & smart home control.  
+[🔗 Repo](#)
 
 </td>
 </tr>
 <tr>
 <td>
 
-**💪 FitMax**  
-<img src="https://via.placeholder.com/400x200.png?text=FitMax" width="100%"/>  
-AI-driven fitness and health tracking app.  
-[🔗 Repo](#) | [🎬 Demo](#)
+<strong>💪 FitMax</strong><br>
+<img src="https://images.unsplash.com/photo-1516834474-48c0abc5dd60?w=600&q=80" width="100%" alt="FitMax" />  
+AI-powered fitness & health tracking app.  
+[🔗 Repo](#)
 
 </td>
 <td>
 
-**🧠 SkillSwap**  
-<img src="https://via.placeholder.com/400x200.png?text=SkillSwap" width="100%"/>  
-Peer-to-peer skill sharing and learning platform.  
-[🔗 Repo](#) | [🎬 Demo](#)
+<strong>🧠 SkillSwap</strong><br>
+<img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=600&q=80" width="100%" alt="SkillSwap" />  
+Peer-to-peer skill sharing & learning platform.  
+[🔗 Repo](#)
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**🍽️ Gursha**  
-<img src="https://via.placeholder.com/800x200.png?text=Gursha" width="100%"/>  
-Ethiopian food delivery and cultural recipe platform.  
-[🔗 Repo](#) | [🎬 Demo](#)
+<strong>🍽️ Gursha</strong><br>
+<img src="https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=1200&q=80" width="100%" alt="Gursha" />  
+Ethiopian food delivery & cultural recipe platform.  
+[🔗 Repo](#)
 
 </td>
 </tr>
@@ -122,80 +105,56 @@ Ethiopian food delivery and cultural recipe platform.
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements
 
-- 💼 3+ years of Flutter experience across startups & research projects  
-- 🧭 Delivered 10+ production-ready apps for Android & iOS  
-- 🧩 Led modular architecture refactors improving performance by **40%+**  
-- 🔥 Integrated **AI & voice** into mobile apps for accessibility  
-- 🚀 Active open-source contributor & CI/CD advocate  
+- 💼 3+ years of Flutter in startups & research  
+- 🧭 10+ production-ready apps, scalable architectures  
+- 🧩 Refactored modules for 40%+ performance boost  
+- 🔥 Integrated AI, voice, and accessibility features  
+- 🚀 Open-source contributor, CI/CD champion
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)
-
-</td>
-</tr>
-<tr>
-<td>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)
-
-</td>
-<td>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yohabay&theme=onedark)
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-## 🧭 Future Roadmap  
+## 🧭 Future Roadmap
 
-- Build **AI-integrated Flutter apps** with TensorFlow Lite  
-- Explore **Flutter Web & Desktop** scalability  
-- Contribute to **open-source Flutter packages**  
-- Share **tech blogs & video tutorials** to inspire devs  
-- Mentor junior Flutter developers  
+- Build AI-powered Flutter apps (TensorFlow Lite, GPT, etc.)
+- Scale Flutter Web/Desktop projects for all devices
+- Launch open-source packages for global devs
+- Publish tutorials, blogs, and code videos
+- Mentor junior Flutter developers world-wide
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 📧 **Email:** abayyohannis267@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yohannis-abay-0907172b4/)  
 💻 [GitHub](https://github.com/yohabay)  
-📱 [Portfolio Website](#)  
+🌍 [Portfolio Website](#)
 
 ---
 
-## 🎨 Fun Side  
+## 🎨 Fun Side
 
-- 🎵 Coding with classical & lo-fi beats  
-- ♟️ Strategy & chess lover  
-- 📸 Enjoys photography & visual design  
-- ✨ Motto: *“Build apps that feel alive.”*  
+- 🎵 Enjoys coding with classical & lo-fi beats  
+- ♟️ A strategy and chess lover  
+- 📸 Passionate about photography and design  
+- ✨ Motto: *“Build apps that feel alive.”*
 
 <div align="center">
-
-**Built with 💙 Flutter, fueled by creativity.**  
-⭐ *If you like what you see, give it a star!* ⭐
-
+<strong>Built with 💙 Flutter, powered by creativity and ambition.</strong><br>
+⭐ <i>If you like what you see, give it a star!</i> ⭐
 </div>
