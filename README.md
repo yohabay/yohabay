@@ -1,67 +1,60 @@
-👋 Hi, I’m @yohabay  
+# 👋 Hi, I’m @yohabay
 
-🌟 **Mobile & Web Developer | Flutter Specialist | AI & ML Enthusiast**  
+## 🌌 2050 Developer Profile
+> 🚀 Building **next-gen apps** with AI, Flutter, and real-time magic.  
+> I don’t just code — I create **digital experiences**.
 
----
-
-### 👀 About Me
-I build **innovative mobile and web applications** with a focus on **impact, accessibility, and real-time services**.  
-I’m currently improving my skills in **advanced Flutter development**, **AI/ML integration**, and **modern web technologies**.  
+![header-animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-### 💼 Professional Highlights
-- Developed **5+ real-time Flutter apps** for e-commerce, location-based services, and accessibility projects.  
-- Experience integrating **AI-powered features** like chatbots, recommendations, and predictive analytics.  
-- Delivered **responsive web apps** using HTML, CSS, JavaScript, and React frameworks.  
-- Contributed to **open-source projects**, improving functionality and code quality.  
+## 💡 Skills & Tech Stack
+**Languages & Frameworks:**  
+Dart | Flutter | React | Node.js | Python | Rust | WebAssembly
+
+**AI & ML:**  
+TensorFlow | PyTorch | NLP | Computer Vision | Predictive Models
+
+**Tools & Platforms:**  
+Git | GitHub Actions | Docker | Vercel | Firebase | CI/CD Pipelines  
+
+**Futuristic Features:**  
+- 🌐 Real-time web & mobile apps  
+- 🤖 AI-driven automation  
+- 🔗 Blockchain & decentralized integration (coming soon)  
+- 🌍 Accessibility-first design  
 
 ---
 
-### 📊 GitHub Stats
-![yohabay GitHub stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
+## 📊 Current Status
+**Coding Energy:** ![progress-bar](https://img.shields.io/badge/Code-Energy-ff69b4?style=for-the-badge)  
+**AI Experiments:** ![progress-bar](https://img.shields.io/badge/AI-Exploring-00ffff?style=for-the-badge)  
+**Open Source Contributions:** ![shields.io](https://img.shields.io/badge/Contributions-27+-green?style=for-the-badge)  
+**Projects in Motion:** ![shields.io](https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge)  
 
 ---
 
-### 🛠️ Tech Skills
-**Languages & Frameworks:** Dart, Flutter, React, Node.js, HTML/CSS/JS  
-**Backend & Databases:** Firebase, REST & GraphQL APIs, MySQL, Firestore  
-**AI & ML:** Python, TensorFlow, PyTorch, Data Analysis, NLP  
-**Tools & Platforms:** Git, GitHub, Vercel, Docker, CI/CD  
+## ⚡ GitHub Metrics (Live)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
 
 ---
 
-### 📈 Achievements & Contributions
-- **Projects completed:** 10+ production apps  
-- **Open-source contributions:** 3+ repositories improved  
-- **Collaboration:** Worked with 5+ cross-functional teams  
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohabay/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yohabay)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/yohabay)  
 
 ---
 
-### 💞️ I’m Looking to Collaborate On
-- Accessibility-focused apps 🌍  
-- E-commerce & payment platforms 🛒  
-- Real-time location-based services 📍  
-- AI-powered solutions 🤖  
+## 💬 Fun Facts
+- I code while listening to **classical music** 🎵  
+- Chess, photography, tech blogging 🧩  
+- Always pushing **boundaries of innovation** 💫  
 
 ---
 
-### 📫 Contact Me
-- **Email:** abayyohannis267@gmail.com  
-- **Phone:** 0960700200  
-- **LinkedIn:** [Your LinkedIn Link]  
-- **Portfolio:** [Your Portfolio Link]  
-
----
-
-### 😄 Personal Fun
-- Pronouns: He/Him  
-- Coding + classical music = ultimate focus 🎵  
-- Hobbies: Chess, tech blogging, photography, exploring open-source  
-
----
-
-### 🌐 Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yohabay)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohabay/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yohabay)
+### 🛠️ Project Showcase (Dynamic)
+![Project Card](https://img.shields.io/badge/Project-NextGenApp-blue?style=for-the-badge)  
+![Project Card](https://img.shields.io/badge/Project-AIChatbot-purple?style=for-the-badge)  
+![Project Card](https://img.shields.io/badge/Project-RealtimeMap-green?style=for-the-badge)  
