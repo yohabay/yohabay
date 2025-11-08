@@ -1,116 +1,150 @@
 # 👋 Hi, I’m @yohabay  
 
-> 🌌 2050 Developer Profile — building **innovative, AI-powered, real-time apps** for the future.  
+> Crafting **high-performance Flutter & Web apps** with AI, ML, and real-time data 🚀  
 
 ![header-animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-## 💻 About Me
-I’m passionate about **creating apps that matter**. My focus is on **Flutter, Web, AI, and real-time systems**. I love turning ideas into products that make life easier, smarter, and more enjoyable.  
-
-- 🔹 **Experience:** 5+ years in mobile & web development  
-- 🔹 **Languages:** Dart, Flutter, JavaScript, Python, Rust  
-- 🔹 **AI/ML:** NLP, Computer Vision, Predictive Analytics  
-- 🔹 **Database & Backend:** Firebase, MySQL, MongoDB, GraphQL, REST APIs  
-- 🔹 **Platforms & Tools:** Git, GitHub Actions, Docker, Vercel, CI/CD  
+## 🌐 About Me
+I’m a **Flutter & Web Developer** passionate about building apps that **make a difference**.  
+- 5+ years experience in **mobile & web development**  
+- Focused on **Flutter, AI/ML, real-time apps, and accessibility-first design**  
+- Experienced in **backend, databases, APIs, and CI/CD pipelines**  
 
 ---
 
-## 🌟 Key Achievements
-- ✅ Built **10+ production-grade apps** for e-commerce, location services, and accessibility  
-- ✅ Contributed to **3+ open-source projects**, adding features and improving performance  
-- ✅ AI-powered projects: chatbots, recommendation engines, and predictive apps  
-- ✅ Experienced in **team collaboration**, Agile workflows, and project management  
-- ✅ Delivered apps with **high accessibility and usability standards**  
+## 🛠 Tech Stack & Skills
+
+### Frontend / Flutter
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-Expert-blue?style=for-the-badge&logo=dart&logoColor=white)  
+![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react&logoColor=white)  
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange?style=for-the-badge&logo=firebase&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-red?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 ---
 
-## 🚀 My Mission
-> To combine **technology, AI, and creativity** to build apps that **solve real-world problems**.  
-- Accessibility-first applications 🌍  
-- Smart e-commerce platforms 🛒  
-- Real-time location-based and tracking apps 📍  
-- AI-driven solutions 🤖  
-- Blockchain & decentralized integration (coming soon) 🔗  
-
----
-
-## 🛠 Tech Stack
-
-| Frontend | Backend | AI/ML | Database | Tools & Platforms |
-|----------|--------|-------|---------|-----------------|
-| Flutter, Dart, React | Node.js, Express | Python, TensorFlow, PyTorch | Firebase, MySQL, MongoDB | Git, GitHub, Docker, Vercel, CI/CD |
-
----
-
-## 📊 GitHub Stats & Dynamic Metrics
+## 📊 GitHub Stats & Metrics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
 
----
+**Commits & PRs:**  
+![Commits](https://img.shields.io/badge/Commits-1500+-green?style=for-the-badge)  
+![PRs](https://img.shields.io/badge/PRs-300+-blue?style=for-the-badge)  
 
-## 🎯 Current Status
-**Coding Energy:** ![progress-bar](https://img.shields.io/badge/Code-Energy-💻-ff69b4?style=for-the-badge)  
-**AI Projects:** ![progress-bar](https://img.shields.io/badge/AI-Experiments-00ffff?style=for-the-badge)  
-**Open Source Contributions:** ![progress-bar](https://img.shields.io/badge/Contributions-27+-green?style=for-the-badge)  
-**Projects in Motion:** ![progress-bar](https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge)  
-
----
-
-## 🏆 Achievements & Metrics
-- **Projects completed:** 10+  
-- **Active contributors:** 3+ open-source repositories  
-- **Team collaboration:** 5+ cross-functional teams  
-- **Commits made:** 1,500+  
-- **Followers:** 100+ (growing daily)  
+**Projects & Contributions:**  
+![Projects](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge)  
+![Open Source](https://img.shields.io/badge/Open_Source-3+-yellow?style=for-the-badge)  
 
 ---
 
-## 💞️ Collaboration Interests
-- AI & Machine Learning projects  
-- Flutter & Web development  
-- Accessibility-first applications  
-- Real-time, scalable apps  
+## ⚡ Skill Levels & Experience Graph
+
+```text
+Flutter        █████████████████ 95%
+Dart           █████████████████ 95%
+React          ████████████ 75%
+Node.js        ███████████ 70%
+Firebase       ███████████ 70%
+Python         ████████████ 80%
+TensorFlow     ██████████ 65%
+PyTorch        ████████ 60%
+MongoDB        ████████ 60%
+
+Experience Timeline (Starting 2021):
+
+2021 → Built first production Flutter apps
+
+2021 → Started AI & ML experiments
+
+2022 → Contributed to open-source projects
+
+2022 → Developed real-time apps & cross-platform projects
+
+2023 → Led full-stack Flutter projects
+
+2024 → Expanding AI/ML integration and advanced Flutter techniques
+
+🚀 Projects Showcase
+Project	Tech Stack	Status	Demo
+NextGen App	Flutter, Firebase	✅ Production	View
+
+AI Chatbot	Python, TensorFlow	🤖 Active	View
+
+Realtime Map	Flutter, Node.js, WebSocket	🔄 Development	View
+
+E-Commerce Platform	Flutter, GraphQL, MongoDB	✅ Completed	View
+📈 Contribution Heatmap
+
+🌐 Connect With Me
+
+
+
+
+
+
+📫 Email: abayyohannis267@gmail.com
+
+📱 Phone: 0960700200
+
+🏆 Achievements
+
+Built 10+ production-ready apps
+
+Contributed to 3+ open-source repositories
+
+Developed AI-powered chatbots & recommendation systems
+
+Delivered accessible and user-friendly apps
+
+Collaborated with 5+ cross-functional teams
+
+🔮 Future Roadmap
+
+Build AI & ML powered real-time apps
+
+Contribute to major open-source projects
+
+Lead cross-platform app development teams
+
+Explore Web3 & blockchain integration
+
+Achieve full-stack expertise in Flutter, Web, and AI
+
+🎨 Fun & Personality
+
+Coding while listening to classical music 🎵
+
+Hobbies: Chess, photography, tech blogging 🧩
+
+Always pushing innovation boundaries 💫
+
 
 ---
 
-## 🔮 Projects Showcase
-
-| Project | Tech Stack | Status |
-|---------|-----------|--------|
-| **NextGen App** | Flutter, Firebase | In production ✅ |
-| **AI Chatbot** | Python, TensorFlow | Active 🤖 |
-| **Realtime Map** | Flutter, Node.js, WebSocket | In development 🔄 |
-| **E-Commerce Platform** | Flutter, GraphQL, MongoDB | Completed ✅ |
+This version is:  
+✅ **All-in-one copy-ready**  
+✅ Starts **from 2021** as requested  
+✅ **Graphs, badges, icons, stats, GIFs, skill charts, projects, and roadmap** all included  
+✅ Perfect for employers, collaborators, or portfolio showcase  
 
 ---
 
-## 🌐 Social & Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohabay/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yohabay)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/yohabay)  
+If you want, I can **upgrade it further** to include:  
+- **Animated SVG skill bars**  
+- **Live project GIF previews embedded**  
+- **Dynamic skill radar**  
+- **Automatic GitHub contribution/achievement updates**  
 
-📫 **Email:** abayyohannis267@gmail.com  
-📱 **Phone:** 0960700200  
-
----
-
-## 😄 Fun Facts
-- I code while listening to **classical music** 🎵  
-- Hobbies: Chess, photography, tech blogging, open-source exploration 🧩  
-- Always pushing **innovation boundaries** 💫  
-
----
-
-## ⚡ Future Roadmap
-- Master **AI-powered real-time applications**  
-- Contribute to **global open-source projects**  
-- Explore **blockchain and Web3 integration**  
-- Build **apps with universal accessibility standards**  
-- Lead **cross-platform projects with Flutter & AI**  
-
----
-
+Do you want me to make that ultimate interactive version next?
