@@ -30,6 +30,8 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 
 ## 🛠️ Tech Stack & Skills  
 
+<div align="center">
+
 ### 🧩 Flutter & Frontend
 - Flutter (Expert)  
 - Dart (Expert)  
@@ -52,11 +54,17 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 - Crashlytics (Enabled)  
 - AppStore / Play Store (Releases)  
 
+</div>
+
 ---
 
-## 📊 Skill Graph  
+## 📊 Skills Graph  
+
+<div align="center">
 
 ![Skills Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','Firebase','Riverpod','UI/UX','Testing'],datasets:[{label:'Skill Level',data:[98,95,90,92,94,85],backgroundColor:'rgba(30,144,255,0.3)',borderColor:'dodgerblue'}]}})
+
+</div>
 
 ---
 
@@ -75,30 +83,54 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 **💰 Lumma Wallet**  
-<img src="https://via.placeholder.com/600x300.png?text=Lumma+Wallet+App" width="600"/>  
+<img src="https://via.placeholder.com/400x200.png?text=Lumma+Wallet" width="100%"/>  
 Fintech app for secure digital payments & budgeting.  
-[🔗 Repo](#) | [🎬 Demo](#)  
+[🔗 Repo](#) | [🎬 Demo](#)
+
+</td>
+<td>
 
 **🌬️ LuxiLuft**  
-<img src="https://via.placeholder.com/600x300.png?text=LuxiLuft+App" width="600"/>  
+<img src="https://via.placeholder.com/400x200.png?text=LuxiLuft" width="100%"/>  
 IoT-powered air quality monitoring and smart home control.  
-[🔗 Repo](#) | [🎬 Demo](#)  
+[🔗 Repo](#) | [🎬 Demo](#)
+
+</td>
+</tr>
+<tr>
+<td>
 
 **💪 FitMax**  
-<img src="https://via.placeholder.com/600x300.png?text=FitMax+App" width="600"/>  
+<img src="https://via.placeholder.com/400x200.png?text=FitMax" width="100%"/>  
 AI-driven fitness and health tracking app.  
-[🔗 Repo](#) | [🎬 Demo](#)  
+[🔗 Repo](#) | [🎬 Demo](#)
+
+</td>
+<td>
 
 **🧠 SkillSwap**  
-<img src="https://via.placeholder.com/600x300.png?text=SkillSwap+App" width="600"/>  
+<img src="https://via.placeholder.com/400x200.png?text=SkillSwap" width="100%"/>  
 Peer-to-peer skill sharing and learning platform.  
-[🔗 Repo](#) | [🎬 Demo](#)  
+[🔗 Repo](#) | [🎬 Demo](#)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 **🍽️ Gursha**  
-<img src="https://via.placeholder.com/600x300.png?text=Gursha+App" width="600"/>  
+<img src="https://via.placeholder.com/800x200.png?text=Gursha" width="100%"/>  
 Ethiopian food delivery and cultural recipe platform.  
-[🔗 Repo](#) | [🎬 Demo](#)  
+[🔗 Repo](#) | [🎬 Demo](#)
+
+</td>
+</tr>
+</table>
 
 </div>
 
