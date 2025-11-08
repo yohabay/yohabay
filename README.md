@@ -27,32 +27,18 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 - 🤝 Collaborative teammate, open-source contributor, and problem-solver  
 
 ---
-
 ## 🛠️ Tech Stack & Skills  
 
 <div align="center">
 
-### 🧩 Flutter & Frontend
-- Flutter (Expert)  
-- Dart (Expert)  
-- Riverpod (Advanced)  
-- Provider (Advanced)  
-- GetX (Strong)  
-- BLoC (Strong)  
-
-### ☁️ Backend & Data
-- Firebase (Expert)  
-- GraphQL (Advanced)  
-- Node.js (Intermediate)  
-- SQLite (Advanced)  
-- Hive (Strong)  
-
-### ⚙️ DevOps & Tools
-- Git (Expert)  
-- GitHub Actions (Proficient)  
-- CI/CD (Automated)  
-- Crashlytics (Enabled)  
-- AppStore / Play Store (Releases)  
+| 🧩 **Frontend / Flutter** | ☁️ **Backend / Data** | ⚙️ **DevOps / Tools** |
+|---------------------------|---------------------|----------------------|
+| Flutter (Expert)          | Firebase (Expert)    | Git (Expert)         |
+| Dart (Expert)             | GraphQL (Advanced)  | GitHub Actions (Proficient) |
+| Riverpod (Advanced)       | Node.js (Intermediate) | CI/CD (Automated)   |
+| Provider (Advanced)       | SQLite (Advanced)   | Crashlytics (Enabled)|
+| GetX (Strong)             | Hive (Strong)       | AppStore / Play Store (Releases) |
+| BLoC (Strong)             | REST / WebSockets   | Docker / VSCode (Optional) |
 
 </div>
 
