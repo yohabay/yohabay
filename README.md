@@ -1,130 +1,165 @@
-# 👋 Hi, I’m @yohabay
-
-> Crafting **high-performance Flutter apps** for mobile and web 🚀  
-> Passionate about **cross-platform solutions, real-time apps, and clean UI/UX**  
-
-![Flutter Banner](https://via.placeholder.com/900x200.png?text=Flutter+Developer+Portfolio)
-
----
-
-## 🌐 About Me
-I’m a **Flutter Developer** focused on building **production-ready apps**:  
-- Started professional Flutter development in **2022**  
-- Expert in **Flutter, Dart, Firebase, and responsive design**  
-- Skilled in **cross-platform apps, backend integration, state management, and UI animations**  
-- Experienced with **GitHub, CI/CD, and collaborative development**  
-
----
-
-## 🛠 Tech Stack & Skills
-
-### Flutter & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-95%25-blue?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-95%25-blue?style=for-the-badge&logo=dart&logoColor=white)  
-![Provider](https://img.shields.io/badge/Provider-80%25-green?style=for-the-badge)  
-![Riverpod](https://img.shields.io/badge/Riverpod-70%25-lightgrey?style=for-the-badge)
-
-### Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-75%25-orange?style=for-the-badge&logo=firebase&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-60%25-green?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-60%25-green?style=for-the-badge&logo=mongodb&logoColor=white)  
-
----
-
-## 📊 Flutter Skill Graphs
-
-### Skill Proficiency
-![Flutter](https://progress-bar.dev/95/?title=Flutter&color=00BFFF)  
-![Dart](https://progress-bar.dev/95/?title=Dart&color=00BFFF)  
-![Firebase](https://progress-bar.dev/75/?title=Firebase&color=FFA500)  
-![Provider](https://progress-bar.dev/80/?title=Provider&color=32CD32)  
-![Riverpod](https://progress-bar.dev/70/?title=Riverpod&color=A9A9A9)  
-![Node.js](https://progress-bar.dev/60/?title=Node.js&color=339933)  
-
-### Tech Distribution (Pie Chart)
-![Tech Pie](https://via.placeholder.com/300x200.png?text=Flutter+Tech+Distribution)
-
----
-
-## 📈 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)
-
----
-
-## ⚡ Experience Timeline
-
-| Year | Milestone |
-|------|-----------|
-| 2022 | Started Flutter development professionally |
-| 2022 | Built first production Flutter apps |
-| 2023 | Developed cross-platform apps and real-time features |
-| 2023 | Contributed to open-source Flutter projects |
-| 2024 | Led full-stack Flutter projects with backend integration |
-
----
-
-## 🚀 Projects Showcase
+<!--
+✨ Yohannis Abay | Senior Flutter Developer ✨
+Crafted with ❤️ using pure Markdown + Flutter energy.
+-->
 
 <div align="center">
 
-### NextGen App
-<img src="https://via.placeholder.com/300x180.png?text=NextGen+App" width="300"/>  
-**Tech Stack:** Flutter, Firebase  
-**Status:** ✅ Production  
-[Live Demo](#) | [Repository](#)
+# 👋 Hi, I’m **Yohannis Abay**  
+### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀  
 
-### Realtime Map
-<img src="https://via.placeholder.com/300x180.png?text=Realtime+Map" width="300"/>  
-**Tech Stack:** Flutter, Node.js, WebSocket  
-**Status:** 🔄 Development  
-[Live Demo](#) | [Repository](#)
-
-### E-Commerce Platform
-<img src="https://via.placeholder.com/300x180.png?text=E-Commerce+Platform" width="300"/>  
-**Tech Stack:** Flutter, GraphQL, MongoDB  
-**Status:** ✅ Completed  
-[Live Demo](#) | [Repository](#)
-
-### Portfolio App
-<img src="https://via.placeholder.com/300x180.png?text=Portfolio+App" width="300"/>  
-**Tech Stack:** Flutter, Firebase  
-**Status:** 🔄 Development  
-[Live Demo](#) | [Repository](#)
+![Flutter Banner](https://via.placeholder.com/1200x300.png?text=Senior+Flutter+Developer+%7C+Yohannis+Abay)
 
 </div>
 
-> Replace `via.placeholder.com` with your **real screenshots, GIFs, or video previews**.
+---
+
+## 🌟 About Me  
+
+I’m a **Senior Flutter Developer** passionate about building **production-ready mobile and web apps** with stunning performance and elegant UI.  
+Since 2022, I’ve been blending creativity and engineering precision to deliver **cross-platform experiences** that feel native on every device.  
+
+- 🧠 Strong believer in **Clean Architecture** & **SOLID principles**  
+- ⚙️ Expert in **Riverpod, Provider, BLoC, and GetX**  
+- ☁️ Backend integrations: **Firebase, REST, GraphQL, WebSockets**  
+- 🎨 Known for **smooth animations, responsive design, and intuitive UX**  
+- 🚀 Experience delivering apps from prototype to **Play Store / App Store**  
+- 🤝 Collaborative teammate, open-source contributor, and problem-solver  
 
 ---
 
-## 🔮 Future Roadmap
+## 🛠️ Tech Stack & Skills  
 
-- Build **more complex Flutter apps with animations and custom widgets**  
-- Explore **Flutter Web & Desktop apps**  
-- Integrate **advanced state management and backend APIs**  
-- Improve **UI/UX designs and accessibility**  
+### 🧩 Flutter & Frontend  
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart)
+![Riverpod](https://img.shields.io/badge/Riverpod-Advanced-6DB33F?logo=data:image/svg+xml;base64,)
+![Provider](https://img.shields.io/badge/Provider-Advanced-4CAF50)
+![GetX](https://img.shields.io/badge/GetX-Strong-9C27B0)
+![BLoC](https://img.shields.io/badge/BLoC-Strong-1976D2)
+
+### ☁️ Backend & Data  
+![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?logo=firebase)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?logo=graphql)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
+![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?logo=sqlite)
+![Hive](https://img.shields.io/badge/Hive-Strong-FFC107)
+
+### ⚙️ DevOps & Tools  
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Proficient-2088FF?logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-success)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-Enabled-orange)
+![AppStore](https://img.shields.io/badge/Play%20%26%20App%20Store-Releases-success)
+
+---
+
+## 📊 Skill Graphs  
+
+![Skills](https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','Firebase','Riverpod','UI/UX','Testing'],datasets:[{label:'Skill Level',data:[98,95,90,92,94,85],backgroundColor:'rgba(30,144,255,0.3)',borderColor:'dodgerblue'}]}})
+
+---
+
+## 🚀 Featured Projects  
+
+<div align="center">
+
+### 💰 Lumma Wallet  
+<img src="https://via.placeholder.com/600x300.png?text=Lumma+Wallet+App" width="600"/>  
+**Fintech app for secure digital payments & budgeting**  
+> Offline-first architecture, Hive + Firebase, Riverpod navigation, Lottie animations, responsive & minimal UI.  
+[🔗 View Repo](#) | [🎬 Demo](#)
+
+---
+
+### 🌬️ LuxiLuft  
+<img src="https://via.placeholder.com/600x300.png?text=LuxiLuft+App" width="600"/>  
+**IoT-powered air quality monitoring and smart home control**  
+> Flutter + WebSocket + real-time dashboards with animated gauges and adaptive themes.  
+[🔗 View Repo](#) | [🎬 Demo](#)
+
+---
+
+### 💪 FitMax  
+<img src="https://via.placeholder.com/600x300.png?text=FitMax+App" width="600"/>  
+**AI-driven fitness and health tracking app**  
+> Integrated motion sensors, Firebase Auth, ML-based recommendations, charts, and progress analytics.  
+[🔗 View Repo](#) | [🎬 Demo](#)
+
+---
+
+### 🧠 SkillSwap  
+<img src="https://via.placeholder.com/600x300.png?text=SkillSwap+App" width="600"/>  
+**Peer-to-peer skill sharing and learning platform**  
+> Real-time chat, push notifications, GraphQL APIs, Riverpod + GoRouter, and smooth hero animations.  
+[🔗 View Repo](#) | [🎬 Demo](#)
+
+---
+
+### 🍽️ Gursha  
+<img src="https://via.placeholder.com/600x300.png?text=Gursha+App" width="600"/>  
+**Ethiopian food delivery and cultural recipe platform**  
+> Flutter + Firebase + Google Maps + real-time order tracking with BLoC pattern.  
+[🔗 View Repo](#) | [🎬 Demo](#)
+
+</div>
+
+---
+
+## 🏆 Achievements  
+
+- 💼 3+ years of Flutter experience across startups & research projects  
+- 🧭 Delivered 10+ production-ready apps for Android & iOS  
+- 🧩 Led modular architecture refactors improving performance by **40%+**  
+- 🔥 Integrated **AI & voice** into mobile apps for accessibility  
+- 🚀 Active open-source contributor & CI/CD advocate  
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=yohabay&theme=onedark)
+
+</div>
+
+---
+
+## 🧭 Future Roadmap  
+
+- Build **AI-integrated Flutter apps** with TensorFlow Lite  
+- Explore **Flutter Web & Desktop** scalability  
 - Contribute to **open-source Flutter packages**  
+- Share **tech blogs & video tutorials** to inspire devs  
+- Mentor junior Flutter developers  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me  
 
-📫 Email: abayyohannis267@gmail.com  
-📱 Phone: 0960700200  
-[LinkedIn](https://www.linkedin.com/in/yohabay) | [Portfolio](#) | [Twitter](#)  
-
----
-
-## 🎨 Fun & Personality
-
-- Coding while listening to **classical music** 🎵  
-- Hobbies: Chess, photography, tech blogging 🧩  
-- Always **pushing innovation boundaries** 💫  
+📧 **Email:** abayyohannis267@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yohannis-abay-0907172b4/)  
+💻 [GitHub](https://github.com/yohabay)  
+📱 [Portfolio Website](#)  
 
 ---
 
-> ⚡ This README is fully **Flutter-focused**, visually rich, and GitHub-friendly.  
-> Skills, projects, and stats are designed to impress employers and collaborators.
+## 🎨 Fun Side  
+
+- 🎵 Coding with classical & lo-fi beats  
+- ♟️ Strategy & chess lover  
+- 📸 Enjoys photography & visual design  
+- ✨ Motto: *“Build apps that feel alive.”*  
+
+---
+
+<div align="center">
+
+**Built with 💙 Flutter, fueled by creativity.**  
+⭐ *If you like what you see, give it a star!* ⭐
+
+</div>
