@@ -1,48 +1,56 @@
 # 👋 Hi, I’m @yohabay
 
-> Building **high-performance Flutter & Web apps** powered by **AI, ML, AR/VR, and real-time data** 🚀  
-> Futuristic Developer of 2050 🌌
+> Crafting **high-performance Flutter apps** for mobile and web 🚀  
+> Passionate about **cross-platform solutions, real-time apps, and clean UI/UX**  
 
-![Header](assets/header.gif)
+![Flutter Banner](https://via.placeholder.com/900x200.png?text=Flutter+Developer+Portfolio)
 
 ---
 
 ## 🌐 About Me
-I’m a **Flutter & Web Developer** passionate about **innovating across platforms**.  
-- 5+ years of experience in **mobile & web development**  
-- Expert in **Flutter, Dart, AI/ML, real-time apps, and accessibility-first design**  
-- Skilled in **backend APIs, databases, CI/CD pipelines, and open-source collaboration**  
+I’m a **Flutter Developer** focused on building **production-ready apps**:  
+- Started professional Flutter development in **2022**  
+- Expert in **Flutter, Dart, Firebase, and responsive design**  
+- Skilled in **cross-platform apps, backend integration, state management, and UI animations**  
+- Experienced with **GitHub, CI/CD, and collaborative development**  
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-### Frontend / Flutter
+### Flutter & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-95%25-blue?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-95%25-blue?style=for-the-badge&logo=dart&logoColor=white)  
-![React](https://img.shields.io/badge/React-75%25-blue?style=for-the-badge&logo=react&logoColor=white)  
+![Provider](https://img.shields.io/badge/Provider-80%25-green?style=for-the-badge)  
+![Riverpod](https://img.shields.io/badge/Riverpod-70%25-lightgrey?style=for-the-badge)
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-70%25-orange?style=for-the-badge&logo=firebase&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-75%25-orange?style=for-the-badge&logo=firebase&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-60%25-green?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-60%25-green?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-65%25-orange?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-60%25-red?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 Flutter Skill Graphs
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
+### Skill Proficiency
+![Flutter](https://progress-bar.dev/95/?title=Flutter&color=00BFFF)  
+![Dart](https://progress-bar.dev/95/?title=Dart&color=00BFFF)  
+![Firebase](https://progress-bar.dev/75/?title=Firebase&color=FFA500)  
+![Provider](https://progress-bar.dev/80/?title=Provider&color=32CD32)  
+![Riverpod](https://progress-bar.dev/70/?title=Riverpod&color=A9A9A9)  
+![Node.js](https://progress-bar.dev/60/?title=Node.js&color=339933)  
+
+### Tech Distribution (Pie Chart)
+![Tech Pie](https://via.placeholder.com/300x200.png?text=Flutter+Tech+Distribution)
+
+---
+
+## 📈 GitHub Stats & Contributions
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)  
-
-**Commits & PRs:**  
-![Commits](https://img.shields.io/badge/Commits-1500+-green?style=for-the-badge)  
-![PRs](https://img.shields.io/badge/PRs-300+-blue?style=for-the-badge)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)
 
 ---
 
@@ -50,35 +58,55 @@ I’m a **Flutter & Web Developer** passionate about **innovating across platfor
 
 | Year | Milestone |
 |------|-----------|
-| 2021 | Built first production Flutter apps |
-| 2021 | Started AI & ML experiments |
-| 2022 | Contributed to open-source projects |
-| 2022 | Developed real-time apps & cross-platform projects |
-| 2023 | Led full-stack Flutter projects |
-| 2024 | Expanded AI/ML integration and advanced Flutter techniques |
+| 2022 | Started Flutter development professionally |
+| 2022 | Built first production Flutter apps |
+| 2023 | Developed cross-platform apps and real-time features |
+| 2023 | Contributed to open-source Flutter projects |
+| 2024 | Led full-stack Flutter projects with backend integration |
 
 ---
 
 ## 🚀 Projects Showcase
 
-| Project | Tech Stack | Status | Demo |
-|---------|------------|--------|------|
-| NextGen App | Flutter, Firebase | ✅ Production | <img src="assets/projects/nextgen.gif" width="150"/> |
-| AI Chatbot | Python, TensorFlow | 🤖 Active | <img src="assets/projects/aichatbot.gif" width="150"/> |
-| Realtime Map | Flutter, Node.js, WebSocket | 🔄 Development | <img src="assets/projects/realtimemap.gif" width="150"/> |
-| E-Commerce Platform | Flutter, GraphQL, MongoDB | ✅ Completed | <img src="assets/projects/ecommerce.gif" width="150"/> |
+<div align="center">
 
-> Replace `/assets/projects/...` with your actual GIFs or screenshots.
+### NextGen App
+<img src="https://via.placeholder.com/300x180.png?text=NextGen+App" width="300"/>  
+**Tech Stack:** Flutter, Firebase  
+**Status:** ✅ Production  
+[Live Demo](#) | [Repository](#)
+
+### Realtime Map
+<img src="https://via.placeholder.com/300x180.png?text=Realtime+Map" width="300"/>  
+**Tech Stack:** Flutter, Node.js, WebSocket  
+**Status:** 🔄 Development  
+[Live Demo](#) | [Repository](#)
+
+### E-Commerce Platform
+<img src="https://via.placeholder.com/300x180.png?text=E-Commerce+Platform" width="300"/>  
+**Tech Stack:** Flutter, GraphQL, MongoDB  
+**Status:** ✅ Completed  
+[Live Demo](#) | [Repository](#)
+
+### Portfolio App
+<img src="https://via.placeholder.com/300x180.png?text=Portfolio+App" width="300"/>  
+**Tech Stack:** Flutter, Firebase  
+**Status:** 🔄 Development  
+[Live Demo](#) | [Repository](#)
+
+</div>
+
+> Replace `via.placeholder.com` with your **real screenshots, GIFs, or video previews**.
 
 ---
 
 ## 🔮 Future Roadmap
 
-- Build **AI & ML powered real-time apps**  
-- Contribute to major **open-source projects**  
-- Lead **cross-platform app development teams**  
-- Explore **Web3 & blockchain integration**  
-- Achieve **full-stack expertise in Flutter, Web, and AI**  
+- Build **more complex Flutter apps with animations and custom widgets**  
+- Explore **Flutter Web & Desktop apps**  
+- Integrate **advanced state management and backend APIs**  
+- Improve **UI/UX designs and accessibility**  
+- Contribute to **open-source Flutter packages**  
 
 ---
 
@@ -98,5 +126,5 @@ I’m a **Flutter & Web Developer** passionate about **innovating across platfor
 
 ---
 
-> ⚡ This README is fully **GitHub-friendly**: all images hosted locally or via reliable badges, skills displayed with **Shields.io**, projects ready for GIF/screenshots, and stats integrated.  
-> Copy-paste ready for your GitHub profile ✨
+> ⚡ This README is fully **Flutter-focused**, visually rich, and GitHub-friendly.  
+> Skills, projects, and stats are designed to impress employers and collaborators.
