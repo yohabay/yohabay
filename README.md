@@ -8,9 +8,16 @@ Crafted with ❤️ using Markdown + Flutter energy.
 # 👋 Hi, I’m **Yohannis Abay**  
 ### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀  
 
-<div align="center">
-<img src="https://github.com/yohabay/yohabay/blob/main/profileimage.png" alt="Flutter Banner" width="80%" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
-</div>
+
+ <div align="center">
+  <img 
+    src="https://github.com/yohabay/yohabay/blob/main/bannerimage.png" 
+    alt="Flutter Banner" 
+    height="350px" 
+    style="border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"
+  />
+</div>/>
+
 </div>
 
 ---
