@@ -8,7 +8,7 @@ Crafted with ❤️ using Markdown + Flutter energy.
 # 👋 Hi, I’m **Yohannis Abay**  
 ### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀  
 
-![Flutter Banner](https://via.placeholder.com/1200x300.png?text=Senior+Flutter+Developer+%7C+Yohannis+Abay)
+![Flutter Banner]([https://via.placeholder.com/1200x300.png?text=Senior+Flutter+Developer+%7C+Yohannis+Abay](https://github.com/yohabay/yohabay/blob/main/profileimage))
 
 </div>
 
