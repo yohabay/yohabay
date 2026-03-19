@@ -104,7 +104,7 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 <td valign="top" align="center">
 
 **💰 Lumma Wallet**  
-<img src="https://via.placeholder.com/400x200.png?text=Lumma+Wallet" width="100%"/>  
+<img src="https://github.com/yohabay/yohabay/blob/main/luma.jpg?text=Lumma+Wallet" width="100%"/>  
 Fintech app for secure digital payments & budgeting.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -122,7 +122,7 @@ IoT-powered air quality monitoring and smart home control.
 <td valign="top" align="center">
 
 **💪 FitMax**  
-<img src="https://via.placeholder.com/400x200.png?text=FitMax" width="100%"/>  
+<img src="https://github.com/yohabay/yohabay/blob/main/fitmaxpro.jpg?text=FitMax" width="100%"/>  
 AI-driven fitness and health tracking app.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -140,7 +140,7 @@ Peer-to-peer skill sharing and learning platform.
 <td colspan="2" align="center">
 
 **🍽️ Gursha**  
-<img src="https://via.placeholder.com/800x200.png?text=Gursha" width="100%"/>  
+<img src="https://github.com/yohabay/yohabay/blob/main/gursha1.jpg?text=Gursha" width="100%"/>  
 Ethiopian food delivery and cultural recipe platform.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -154,7 +154,7 @@ Ethiopian food delivery and cultural recipe platform.
 
 ## 🏆 Achievements  
 
-- 💼 3+ years of Flutter experience across startups & research projects  
+- 💼 4+ years of Flutter experience across startups & research projects  
 - 🧭 Delivered 10+ production-ready apps for Android & iOS  
 - 🧩 Led modular architecture refactors improving performance by **40%+**  
 - 🔥 Integrated **AI & voice** into mobile apps for accessibility  
