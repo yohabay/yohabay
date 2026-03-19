@@ -104,7 +104,7 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 <td valign="top" align="center">
 
 **💰 Lumma Wallet**  
-<img src="https://github.com/yohabay/yohabay/blob/main/luma.jpg?text=Lumma+Wallet" width="100%"/>  
+<img src="https://github.com/yohabay/yohabay/blob/main/luma.jpg?text=Lumma+Wallet" width="10%"/>  
 Fintech app for secure digital payments & budgeting.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -112,7 +112,7 @@ Fintech app for secure digital payments & budgeting.
 <td valign="top" align="center">
 
 **🌬️ LuxiLuft**  
-<img src="https://via.placeholder.com/400x200.png?text=LuxiLuft" width="100%"/>  
+<img src="https://via.placeholder.com/400x200.png?text=LuxiLuft" width="10%"/>  
 IoT-powered air quality monitoring and smart home control.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -122,7 +122,7 @@ IoT-powered air quality monitoring and smart home control.
 <td valign="top" align="center">
 
 **💪 FitMax**  
-<img src="https://github.com/yohabay/yohabay/blob/main/fitmaxpro.jpg?text=FitMax" width="100%"/>  
+<img src="https://github.com/yohabay/yohabay/blob/main/fitmaxpro.jpg?text=FitMax" width="10%"/>  
 AI-driven fitness and health tracking app.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -130,7 +130,7 @@ AI-driven fitness and health tracking app.
 <td valign="top" align="center">
 
 **🧠 SkillSwap**  
-<img src="https://via.placeholder.com/400x200.png?text=SkillSwap" width="100%"/>  
+<img src="https://via.placeholder.com/400x200.png?text=SkillSwap" width="10%"/>  
 Peer-to-peer skill sharing and learning platform.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
@@ -140,7 +140,7 @@ Peer-to-peer skill sharing and learning platform.
 <td colspan="2" align="center">
 
 **🍽️ Gursha**  
-<img src="https://github.com/yohabay/yohabay/blob/main/gursha1.jpg?text=Gursha" width="100%"/>  
+<img src="https://github.com/yohabay/yohabay/blob/main/gursha1.jpg?text=Gursha" width="10%"/>  
 Ethiopian food delivery and cultural recipe platform.  
 [🔗 Repo](#) | [🎬 Demo](#)
 
