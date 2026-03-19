@@ -8,8 +8,9 @@ Crafted with ❤️ using Markdown + Flutter energy.
 # 👋 Hi, I’m **Yohannis Abay**  
 ### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀  
 
-![Flutter Banner](https://github.com/yohabay/yohabay/blob/main/profileimage.png)
-
+<div align="center">
+<img src="https://github.com/yohabay/yohabay/blob/main/profileimage.png" alt="Flutter Banner" width="80%" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
+</div>
 </div>
 
 ---
@@ -96,57 +97,41 @@ Since 2021, I’ve been blending creativity and engineering precision to deliver
 ---
 
 ## 🚀 Featured Projects  
-
 <div align="center">
 
 <table>
 <tr>
-<td valign="top" align="center">
-
-**💰 Lumma Wallet**  
-<img src="https://github.com/yohabay/yohabay/blob/main/luma.jpg?text=Lumma+Wallet" width="10%"/>  
-Fintech app for secure digital payments & budgeting.  
-[🔗 Repo](#) | [🎬 Demo](#)
-
+<td align="center" valign="top">
+  <b>💰 Lumma Wallet</b><br>
+  <img src="https://github.com/yohabay/yohabay/blob/main/luma.jpg" height="120px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2)"/><br>
+  Fintech app for secure payments.<br>
+  [🔗 Repo](#) | [🎬 Demo](#)
 </td>
-<td valign="top" align="center">
-
-**🌬️ LuxiLuft**  
-<img src="https://via.placeholder.com/400x200.png?text=LuxiLuft" width="10%"/>  
-IoT-powered air quality monitoring and smart home control.  
-[🔗 Repo](#) | [🎬 Demo](#)
-
+<td width="20"></td>
+<td align="center" valign="top">
+  <b>🌬️ LuxiLuft</b><br>
+  <img src="https://via.placeholder.com/400x200.png?text=LuxiLuft" height="120px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2)"/><br>
+  Air quality & smart home control.<br>
+  [🔗 Repo](#) | [🎬 Demo](#)
 </td>
-</tr>
-<tr>
-<td valign="top" align="center">
-
-**💪 FitMax**  
-<img src="https://github.com/yohabay/yohabay/blob/main/fitmaxpro.jpg?text=FitMax" width="10%"/>  
-AI-driven fitness and health tracking app.  
-[🔗 Repo](#) | [🎬 Demo](#)
-
+<td width="20"></td>
+<td align="center" valign="top">
+  <b>💪 FitMax</b><br>
+  <img src="https://github.com/yohabay/yohabay/blob/main/fitmaxpro.jpg" height="120px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2)"/><br>
+  AI fitness & health tracking.<br>
+  [🔗 Repo](#) | [🎬 Demo](#)
 </td>
-<td valign="top" align="center">
-
-**🧠 SkillSwap**  
-<img src="https://via.placeholder.com/400x200.png?text=SkillSwap" width="10%"/>  
-Peer-to-peer skill sharing and learning platform.  
-[🔗 Repo](#) | [🎬 Demo](#)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**🍽️ Gursha**  
-<img src="https://github.com/yohabay/yohabay/blob/main/gursha1.jpg?text=Gursha" width="10%"/>  
-Ethiopian food delivery and cultural recipe platform.  
-[🔗 Repo](#) | [🎬 Demo](#)
-
+<td width="20"></td>
+<td align="center" valign="top">
+  <b>🧠 SkillSwap</b><br>
+  <img src="https://via.placeholder.com/400x200.png?text=SkillSwap" height="120px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2)"/><br>
+  Peer-to-peer skill sharing.<br>
+  [🔗 Repo](#) | [🎬 Demo](#)
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
