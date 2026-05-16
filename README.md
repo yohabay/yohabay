@@ -1,112 +1,162 @@
-<!--
-✨ Yohannis Abay | Senior Flutter Developer ✨
-Crafted with precision, performance, and clean architecture.
--->
-
 <div align="center">
 
 # 👋 Hi, I’m **Yohannis Abay**  
-### 🚀 Senior Flutter Developer | Mobile Architect | Performance-Driven Builder  
+### Senior Flutter Developer | Crafting Pixel-Perfect, High-Performance Apps 🚀  
+
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🌟 About Me  
 
-I design and build **high-performance Flutter applications** focused on scalability, clean architecture, and smooth user experience.
+I’m a **Senior Flutter Developer** passionate about building **production-ready mobile and web apps** with stunning performance and elegant UI.  
+Since 2021, I’ve been blending creativity and engineering precision to deliver **cross-platform experiences** that feel native on every device.  
 
-- 🧠 Clean Architecture + SOLID principles  
-- ⚙️ Riverpod • BLoC • Provider • GetX  
-- ☁️ Firebase • REST • GraphQL • WebSockets  
-- 🎯 Pixel-perfect UI + smooth animations  
-- 📦 Production apps on Play Store & App Store  
-- 🤝 Strong system design & problem solving  
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Flutter / Mobile
-Flutter • Dart • Riverpod • BLoC • Provider • GetX  
-Custom UI • Animations • Clean Architecture  
-
-### ☁️ Backend / Data
-Firebase • REST APIs • GraphQL  
-SQLite • Hive • Node.js (integration)
-
-### ⚙️ DevOps / Tools
-Git • GitHub Actions • CI/CD  
-Crashlytics • Analytics  
-Play Store / App Store deployment  
-Docker basics  
+- 🧠 Strong believer in **Clean Architecture** & **SOLID principles**  
+- ⚙️ Expert in **Riverpod, Provider, BLoC, and GetX**  
+- ☁️ Backend integrations: **Firebase, REST, GraphQL, WebSockets**  
+- 🎨 Known for **smooth animations, responsive design, and intuitive UX**  
+- 🚀 Experience delivering apps from prototype to **Play Store / App Store**  
+- 🤝 Collaborative teammate, open-source contributor, and problem-solver  
 
 ---
 
-## 🧠 Core Strengths
-
-- 🚀 Scalable architecture from scratch  
-- 🎨 Pixel-perfect UI engineering  
-- ⚡ Performance optimization (40%+ improvements)  
-- 🔄 Real-time apps & API systems  
-- 🧩 Modular architecture design  
-- 🛠 Fast debugging & system thinking  
-
----
-
-## 📊 Experience Timeline
-
-- **2021** → Started production Flutter apps  
-- **2022** → Built real-time & scalable systems  
-- **2023** → Led full Flutter architecture projects  
-- **2024** → Integrated AI + advanced systems  
-- **2025–2026** → Focused on scalable + AI-driven apps  
-
-## 🏆 Highlights
-
-- 📱 10+ production apps delivered  
-- ⚡ 40%+ performance improvements via refactoring  
-- 🧩 Modular architecture expert  
-- 🔥 Real-time system experience  
-- 🚀 CI/CD + deployment pipelines  
-
----
-
-## 🧭 Future Roadmap
-
-- AI-powered Flutter applications  
-- Flutter Web & Desktop scaling  
-- Open-source Flutter packages  
-- Developer tools ecosystem  
-- Technical content & mentoring  
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: abayyohannis267@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/yohannis-abay-0907172b4/  
-💻 GitHub: github.com/yohabay  
-
----
-
-## 🎨 Personal Side
-
-- 🎧 Coding with lo-fi / classical music  
-- ♟ Strategic thinking mindset  
-- 📸 Interested in design & UI systems  
-- ✨ *“Build apps that feel alive.”*  
-
----
+## 🛠️ Tech Stack & Skills  
 
 <div align="center">
 
-## ⭐ Final Note
+<table>
+<tr>
+<td valign="top" align="center">
 
-If you care about **clean architecture, scalable Flutter systems, and premium UI engineering**, this is exactly the mindset behind my work.
+### 🧩 Frontend / Flutter
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart)
+![Riverpod](https://img.shields.io/badge/Riverpod-Advanced-6DB33F)
+![Provider](https://img.shields.io/badge/Provider-Advanced-4CAF50)
+![GetX](https://img.shields.io/badge/GetX-Strong-9C27B0)
+![BLoC](https://img.shields.io/badge/BLoC-Strong-1976D2)
 
-**Built with 💙 Flutter & obsession for detail**
+</td>
+<td valign="top" align="center">
 
-⭐ If you like it, give it a star ⭐  
+### ☁️ Backend / Data
+![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?logo=firebase)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?logo=graphql)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
+![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?logo=sqlite)
+![Hive](https://img.shields.io/badge/Hive-Strong-FFC107)
+![REST](https://img.shields.io/badge/REST-Strong-007ACC)
+
+</td>
+<td valign="top" align="center">
+
+### ⚙️ DevOps / Tools
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Proficient-2088FF?logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-success)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-Enabled-orange)
+![AppStore](https://img.shields.io/badge/Play%20%26%20App%20Store-Releases-success)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Skills Graph  
+
+![Skills Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Flutter%27%2C%27Dart%27%2C%27Firebase%27%2C%27Riverpod%27%2C%27UI%2FUX%27%2C%27Testing%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B98%2C95%2C90%2C92%2C94%2C85%5D%2CbackgroundColor%3A%27rgba(30%2C144%2C255%2C0.3)%27%2CborderColor%3A%27dodgerblue%27%7D%5D%7D%7D)
+
+---
+
+## ⚡ Experience Timeline  
+
+- **2021** → Built first production Flutter apps  
+- **2021** → Started AI & ML experiments  
+- **2022** → Contributed to open-source projects  
+- **2022** → Developed real-time apps & cross-platform projects  
+- **2023** → Led full-stack Flutter projects  
+- **2024** → Expanding AI/ML integration and advanced Flutter techniques  
+
+## 🏆 Achievements  
+
+- 💼 4+ years of Flutter experience across startups & research projects  
+- 🧭 Delivered 10+ production-ready apps for Android & iOS  
+- 🧩 Led modular architecture refactors improving performance by **40%+**  
+- 🔥 Integrated **AI & voice** into mobile apps for accessibility  
+- 🚀 Active open-source contributor & CI/CD advocate  
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohabay&show_icons=true&theme=radical)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohabay&layout=compact&theme=radical)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohabay&theme=radical)
+
+</td>
+<td>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yohabay&theme=onedark)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧭 Future Roadmap  
+
+- Build **AI-integrated Flutter apps** with TensorFlow Lite  
+- Explore **Flutter Web & Desktop** scalability  
+- Contribute to **open-source Flutter packages**  
+- Share **tech blogs & video tutorials** to inspire devs  
+- Mentor junior Flutter developers  
+
+---
+
+## 🌐 Connect with Me  
+
+📧 **Email:** abayyohannis267@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yohannis-abay-0907172b4/)  
+💻 [GitHub](https://github.com/yohabay)  
+📱 [Portfolio Website](#)  
+
+---
+
+## 🎨 Fun Side  
+
+- 🎵 Coding with classical & lo-fi beats  
+- ♟️ Strategy & chess lover  
+- 📸 Enjoys photography & visual design  
+- ✨ Motto: *“Build apps that feel alive.”*  
+
+<div align="center">
+
+**Built with 💙 Flutter, fueled by creativity.**  
+⭐ *If you like what you see, give it a star!* ⭐
 
 </div>
